@@ -1,29 +1,34 @@
-# 🌲 Forest Fire Prediction (FWI System)
+#  Forest Fire Prediction (FWI System)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS-green)
 ![ML](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 
-## 📌 Project Overview
+##  Project Overview
 This project is an End-to-End Machine Learning web application that predicts the **Fire Weather Index (FWI)**. The FWI is a critical metric used to estimate the danger of forest fires based on meteorological conditions like temperature, wind, humidity, and rain.
 
 The model was trained on the **Algerian Forest Fires Dataset**, achieving high accuracy using **Linear Regression** (Ridge/Lasso).
 
-## 📂 Project Structure
+## Demo
+| Home Page | Prediction Result |
+| :---: | :---: |
+| ![Home Page](screenshot_home.png) | ![Prediction page](screenshot_prediction.png) | ![Result Page](screenshot_result.png)
+
+##  Project Structure
 * **`application.py`**: The main Flask application that runs the web server.
 * **`notebooks/`**: Jupyter Notebooks used for Exploratory Data Analysis (EDA) and Model Training.
 * **`models/`**: Contains the saved pickle files (`model.pkl` for scaling, `model1.pkl` for prediction).
 * **`templates/`**: HTML files for the user interface.
 * **`Dataset/`**: The original dataset used for training.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Backend:** Python, Flask
 * **Machine Learning:** Scikit-Learn (Regression models), Pandas, NumPy
 * **Frontend:** HTML, CSS
 * **Tools:** VS Code, Git
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/YOUR_USERNAME/Forest-Fire-Prediction.git](https://github.com/YOUR_USERNAME/Forest-Fire-Prediction.git)
