@@ -13,7 +13,7 @@ The model was trained on the **Algerian Forest Fires Dataset**, achieving high a
 ## Demo
 | Home Page | Prediction Result |
 | :---: | :---: |
-| ![Home Page](screenshot_home.png) | ![Prediction page](screenshot_prediction.png) | ![Result Page](screenshot_result.png)
+| ![Home Page](home.png) | ![Prediction page](predict.png) |
 
 ##  Project Structure
 * **`application.py`**: The main Flask application that runs the web server.
