@@ -31,7 +31,7 @@ The model was trained on the **Algerian Forest Fires Dataset**, achieving high a
 ##  How to Run This Project
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Forest-Fire-Prediction.git](https://github.com/YOUR_USERNAME/Forest-Fire-Prediction.git)
+    git clone [https://github.com/itsabhisingh07/Forest-Fire-Prediction.git](https://github.com/itsabhisingh07/Forest-Fire-Prediction.git)
     ```
 2.  **Navigate to the folder:**
     ```bash
