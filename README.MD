@@ -26,7 +26,7 @@ The model was trained on the **Algerian Forest Fires Dataset**, achieving high a
 * **Backend:** Python, Flask
 * **Machine Learning:** Scikit-Learn (Regression models), Pandas, NumPy
 * **Frontend:** HTML, CSS
-* **Tools:** VS Code, Git
+* **Tools:** VS Code, Git, collab
 
 ##  How to Run This Project
 1.  **Clone the repository:**
