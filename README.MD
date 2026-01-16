@@ -6,7 +6,7 @@
 ![ML](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 
 ##  Project Overview
-This project is an End-to-End Machine Learning web application that predicts the **Fire Weather Index (FWI)**. The FWI is a critical metric used to estimate the danger of forest fires based on meteorological conditions like temperature, wind, humidity, and rain.
+This project is an End-to-End Machine Learning web application that used to predicts the **Fire Weather Index (FWI)**. The FWI is a critical metric used to estimate the danger of forest fires based on meteorological conditions like temperature, wind, humidity, and rain.
 
 The model was trained on the **Algerian Forest Fires Dataset**, achieving high accuracy using **Linear Regression** (Ridge/Lasso).
 
